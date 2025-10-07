@@ -1,0 +1,14 @@
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\guess the number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\guess the number.AssemblyInfoInputs.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\guess the number.AssemblyInfo.cs
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\guess the number.csproj.CoreCompileInputs.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\bin\Debug\net8.0\guess the number.exe
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\bin\Debug\net8.0\guess the number.deps.json
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\bin\Debug\net8.0\guess the number.runtimeconfig.json
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\bin\Debug\net8.0\guess the number.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\bin\Debug\net8.0\guess the number.pdb
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\guess the number.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\refint\guess the number.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\guess the number.pdb
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\guess the number.genruntimeconfig.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\guess the number\obj\Debug\net8.0\ref\guess the number.dll
